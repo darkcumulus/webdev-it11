@@ -10,6 +10,7 @@ lectures, labs, and others for this subject
   - [Week 4](https://loom.com/share/folder/e1c81d8401564a2684f51e21093c97ad) Watch it here, presentation files [here](https://drive.google.com/drive/u/0/folders/1ck58XrcZkPrvUtEKD1FM9PnYtrZYASvy)
   - [Week 5](https://loom.com/share/folder/961bed23aee24995ba0fa78dcdf207b9) Watch it here, presentation files [here](https://drive.google.com/drive/u/0/folders/1ck58XrcZkPrvUtEKD1FM9PnYtrZYASvy) and [here](https://github.com/darkcumulus/webdev-it11/tree/master/week5)
   - [Week 6](https://loom.com/share/folder/bc992387de68479794adfc325836e5d1) Watch it here, presentation files & code [here](https://github.com/darkcumulus/webdev-it11/tree/master/week6)
+  - [Week 7](https://loom.com/share/folder/b3dbad2f8e0d4bf4900fa405b84d2e67) Watch it here, presentation files & code [here](https://github.com/darkcumulus/webdev-it11/tree/master/week7)
 
 - ### Quizzes
 
