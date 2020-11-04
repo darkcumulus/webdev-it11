@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+        <form oninput="result.value=parseInt(a.value)+parseInt(b.value)">
+                <input type="range" id="b" name="b" value="50" /> +
+                <input type="number" id="a" name="a" value="10" /> =
+                <output name="result" for="a b">60</output>
+              </form>
+              
+        <form action="action_page.php">
+                <input list="browsers">
+                <datalist id="browsers">
+                  <option value="Internet Explorer">
+                  <option value="Firefox">
+                  <option value="Chrome">
+                  <option value="Opera">
+                  <option value="Safari">
+                </datalist>
+
+    <select name="cars">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="fiat">Fiat</option>
+        <option value="audi">Audi</option>
+      </select>
+      <textarea name="message" rows="10" cols="30">
+        The cat was playing in the garden.
+        </textarea>
+        <button type="button" onclick="alert('Hello World!')">Click Me!</button>
+
+</body>
+</html>
