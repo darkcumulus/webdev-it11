@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <title>Bootstrap Sandbox</title>
+</head>
+<body>
+    <header>
+        <h1 class="display-3 text-center my-4">Navbar & Navs</h1>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <div class="dropdown">
+                  <button class="btn btn-primary btn-block dropdown-toggle" type="button" data-toggle="dropdown">
+                      2: Utilities
+                  </button>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="2_2_basic_typography.html">2.2 Basic Typography</a>
+                      <a class="dropdown-item" href="2_3_text_alignment_display.html">2.3 Text Alignment & Display</a>
+                      <a class="dropdown-item" href="2_4_floats_position.html">2.4 Floats & Position</a>
+                      <a class="dropdown-item" href="2_5_colors_background.html">2.5: Colors & Background</a>
+                      <a class="dropdown-item" href="2_6_spacing.html">2.6 Spacing</a>
+                      <a class="dropdown-item" href="2_7_sizing.html">2.7 Sizing</a>
+                      <a class="dropdown-item" href="2_8_breakpoints.html">2.8 Breakpoints</a>
+                  </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="dropdown">
+                  <button class="btn btn-success btn-block dropdown-toggle" type="button" data-toggle="dropdown">
+                      3: CSS Components
+                  </button>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="3_2_buttons.html">3.2 Buttons</a>
+                      <a class="dropdown-item" href="3_3_navbar.html">3.3 Navbar</a>
+                      <a class="dropdown-item" href="3_4_list_groups_badges.html">3.4 List Groups & Badges</a>
+                      <a class="dropdown-item" href="3_5_forms.html">3.5 Forms</a>
+                      <a class="dropdown-item" href="3_6_input_groups.html">3.6 Input Groups</a>
+                      <a class="dropdown-item" href="3_7_alerts_progress.html">3.7 Alerts & Progress</a>
+                      <a class="dropdown-item" href="3_8_tables_pagination.html">3.8 Tables & Pagination</a>
+                      <a class="dropdown-item" href="3_9_cards.html">3.9 Cards</a>
+                      <a class="dropdown-item" href="3_10_media_object.html">3.10 Media Objects</a>
+                  </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="dropdown">
+                  <button class="btn btn-warning btn-block dropdown-toggle" type="button" data-toggle="dropdown">
+                      4: Grid & Flexbox
+                  </button>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="4_2_grid_system.html">4.2 Grid System</a>
+                      <a class="dropdown-item" href="4_3_grid_alignment.html">4.3 Grid Alignment</a>
+                      <a class="dropdown-item" href="4_4_flexbox.html">4.4 Flexbox</a>
+                      <a class="dropdown-item" href="4_5_auto_margins_wrapping_order.html">4.5 Auto Margins & Wrap</a>
+                  </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="dropdown">
+                  <button class="btn btn-danger btn-block dropdown-toggle" type="button" data-toggle="dropdown">
+                      5: JavaScript Widgets
+                  </button>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="5_2_carousel.html">5.2 Carousel</a>
+                      <a class="dropdown-item" href="5_3_collapse.html">5.3 Collapse</a>
+                      <a class="dropdown-item" href="5_4_tooltips.html">5.4 Tooltips</a>
+                      <a class="dropdown-item" href="5_5_popovers.html">5.5 Popovers</a>
+                      <a class="dropdown-item" href="5_6_modals.html">5.6 Modals</a>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr>
+      </header>
+
+    <!--########################START HERE#########################-->
+
+    <!-- SIMPLE NAVBAR -->
+    <nav class="navbar navbar-light navbar-expand-sm bg-faded">
+            <div class="collapse navbar-collapse">
+              <a class="navbar-brand" href="#">Navbar</a>
+                  <ul class="navbar-nav">
+                      <li class="nav-item">
+                          <a class="nav-link" href="#">Home</a> 
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="#">About</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="#">Services</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="#">Contact</a>
+                      </li>
+                  </ul>
+              </div>
+        </nav>
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">Navbar</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                      <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Dropdown
+                      </a>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Action</a>
+                        <a class="dropdown-item" href="#">Another action</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Something else here</a>
+                      </div>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link disabled" href="#">Disabled</a>
+                    </li>
+                  </ul>
+                  <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                  </form>
+                </div>
+              </nav>        
+
+<!-- As a link -->
+<nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="#">Navbar</a>
+      </nav>
+      
+      <!-- As a heading -->
+      <nav class="navbar navbar-light bg-light">
+        <span class="navbar-brand mb-0 h1">Navbar</span>
+      </nav> 
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Navbar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Features</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Pricing</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link disabled" href="#">Disabled</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+
+          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">Navbar</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                  <div class="navbar-nav">
+                    <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-item nav-link" href="#">Features</a>
+                    <a class="nav-item nav-link" href="#">Pricing</a>
+                    <a class="nav-item nav-link disabled" href="#">Disabled</a>
+                  </div>
+                </div>
+              </nav>
+
+              <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <a class="navbar-brand" href="#">Navbar</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                      <ul class="navbar-nav">
+                        <li class="nav-item active">
+                          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">Features</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">Pricing</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Dropdown link
+                          </a>
+                          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </nav>
+  
+                  <nav class="navbar fixed-top navbar-light bg-light">
+                        <a class="navbar-brand" href="#">Fixed top</a>
+                      </nav>
+
+                <nav class="navbar fixed-bottom navbar-light bg-light">
+                    <a class="navbar-brand" href="#">Fixed bottom</a>
+                    </nav>      
+                <nav class="navbar sticky-top navbar-light bg-light">
+                        <a class="navbar-brand" href="#">Sticky top</a>
+                        </nav>      
+                        
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quos cupiditate voluptatum dignissimos praesentium recusandae fuga delectus iure, in inventore aspernatur, optio consequatur labore expedita molestiae, molestias voluptates ipsum tenetur!
+            Vel, odio? Aliquid minima, magnam eius doloribus sit fugiat tenetur ipsam incidunt earum soluta commodi veritatis dignissimos? Velit molestias vel eius ratione voluptatum sequi in sapiente adipisci asperiores, ex amet.
+            Nihil dignissimos, id magnam explicabo reprehenderit suscipit maiores esse ullam beatae odio dolores tempora laboriosam dolore sapiente cupiditate blanditiis sed iste fugiat. Autem quasi impedit magnam nemo corrupti, vitae esse.
+            Quisquam amet, quo reiciendis praesentium animi officiis nulla molestiae aperiam. Earum laboriosam magnam nisi adipisci maxime totam corrupti autem voluptate assumenda fugiat culpa maiores amet, fugit aut laudantium eaque harum?
+            Ipsum repellendus iure necessitatibus, officia quam nesciunt eum reiciendis tempora maxime delectus dolores. Cum commodi esse eveniet pariatur itaque eum, aliquam voluptas autem veniam illo earum vitae repellat? Dolorem, voluptatem.
+            Quidem accusantium ex ut dolore, qui itaque aliquam autem quod ad culpa voluptatibus, recusandae molestiae? Ipsa, omnis facere pariatur ullam fugit obcaecati porro, ad consequatur iste repellat ab sint harum.
+            Qui illo quaerat repellat vel, provident quas molestias rem! Sit excepturi iste, eum ut ducimus tempora necessitatibus id laudantium deleniti quae consectetur porro, voluptates quia, voluptatibus laboriosam optio et voluptatum.
+            Vero provident dolor explicabo minus neque deleniti aperiam velit at consequatur. Ratione, pariatur! Autem, voluptatibus voluptatem? Delectus accusamus repudiandae consectetur repellat dolorem obcaecati! Esse necessitatibus atque sit debitis rem. Perspiciatis!
+            Dolores deserunt assumenda excepturi expedita minima aspernatur praesentium consequatur nemo obcaecati harum minus iure ex veritatis, ducimus vero qui velit alias. Unde consequatur dolorem quasi labore debitis aspernatur voluptate eveniet.
+            Tempore expedita illum placeat at atque aliquid officia ducimus error quasi architecto a maxime, ipsam totam et magnam reprehenderit repellendus nemo consequatur quaerat delectus, rem perferendis tempora? Temporibus, repudiandae eum.
+            Quod vero commodi error quidem! Ratione aut maiores culpa assumenda repellat, neque hic, amet labore maxime ex nostrum natus eveniet dolores itaque, aliquid doloribus cum! Earum nam dignissimos minima corporis.
+            Corrupti harum impedit quam, mollitia expedita optio deserunt maxime eum assumenda. Eligendi nobis vitae sint ex dolorum, tempora voluptatum veritatis similique, quo autem provident dolor est quis, ipsam quibusdam placeat!
+            Sint nulla nam sunt, soluta repudiandae nisi ullam. Eveniet nemo harum qui neque sequi sit impedit magni maxime maiores aliquam perferendis, a ad ducimus voluptatibus incidunt sed illo ex hic.
+            Recusandae atque, magnam dolore, nesciunt quod distinctio fuga molestias praesentium culpa totam laborum tenetur aspernatur explicabo dignissimos odio quasi saepe itaque necessitatibus nihil commodi! Omnis laboriosam minus animi ullam ipsa.
+            Commodi sapiente, eius dolore fugiat soluta eligendi vero cumque excepturi nulla quis tenetur, placeat ducimus dicta totam odit tempora. Perspiciatis fuga obcaecati optio, hic inventore sint saepe similique debitis tempore?
+            Earum hic cum soluta ea temporibus quo. Quaerat nulla culpa similique placeat est consequuntur eaque saepe, ullam temporibus? Ad et pariatur necessitatibus fugiat eveniet facere vel minus quaerat doloribus maiores!
+            Impedit eos magnam, molestiae recusandae quasi nam enim voluptates aspernatur commodi adipisci est modi rem nihil voluptas ullam officiis dolores. Maxime deleniti voluptates facilis omnis cupiditate voluptatum sint ipsam consequatur?
+            Nesciunt mollitia nisi veritatis cupiditate minus adipisci ratione sequi autem? Eligendi ratione ea reprehenderit, tempora repellat veniam obcaecati in inventore dolorum quis quasi, esse, accusantium voluptates et. Magnam, necessitatibus repellat.
+            Excepturi, dolor! Ea quos error dicta voluptatibus sint et debitis praesentium ullam nostrum illo autem, blanditiis itaque iste esse minima quam quod. Voluptatem nemo corrupti modi voluptates, in qui laboriosam!
+            Quam eos, delectus unde minus maxime aliquid voluptas consequatur beatae ipsa ullam, recusandae doloribus. Voluptas, alias quae veritatis sunt iusto tempore optio deleniti non mollitia esse maxime tempora architecto consectetur?</p>
+
+    <div style="margin-top:500px;"></div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+</body>
+</html>

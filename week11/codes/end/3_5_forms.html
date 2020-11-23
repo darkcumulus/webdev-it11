@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <title>Bootstrap Sandbox</title>
+</head>
+<body>
+    <header>
+        <h1 class="display-3 text-center my-4">Forms</h1>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <div class="dropdown">
+                  <button class="btn btn-primary btn-block dropdown-toggle" type="button" data-toggle="dropdown">
+                      2: Utilities
+                  </button>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="2_2_basic_typography.html">2.2 Basic Typography</a>
+                      <a class="dropdown-item" href="2_3_text_alignment_display.html">2.3 Text Alignment & Display</a>
+                      <a class="dropdown-item" href="2_4_floats_position.html">2.4 Floats & Position</a>
+                      <a class="dropdown-item" href="2_5_colors_background.html">2.5: Colors & Background</a>
+                      <a class="dropdown-item" href="2_6_spacing.html">2.6 Spacing</a>
+                      <a class="dropdown-item" href="2_7_sizing.html">2.7 Sizing</a>
+                      <a class="dropdown-item" href="2_8_breakpoints.html">2.8 Breakpoints</a>
+                  </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="dropdown">
+                  <button class="btn btn-success btn-block dropdown-toggle" type="button" data-toggle="dropdown">
+                      3: CSS Components
+                  </button>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="3_2_buttons.html">3.2 Buttons</a>
+                      <a class="dropdown-item" href="3_3_navbar.html">3.3 Navbar</a>
+                      <a class="dropdown-item" href="3_4_list_groups_badges.html">3.4 List Groups & Badges</a>
+                      <a class="dropdown-item" href="3_5_forms.html">3.5 Forms</a>
+                      <a class="dropdown-item" href="3_6_input_groups.html">3.6 Input Groups</a>
+                      <a class="dropdown-item" href="3_7_alerts_progress.html">3.7 Alerts & Progress</a>
+                      <a class="dropdown-item" href="3_8_tables_pagination.html">3.8 Tables & Pagination</a>
+                      <a class="dropdown-item" href="3_9_cards.html">3.9 Cards</a>
+                      <a class="dropdown-item" href="3_10_media_object.html">3.10 Media Objects</a>
+                  </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="dropdown">
+                  <button class="btn btn-warning btn-block dropdown-toggle" type="button" data-toggle="dropdown">
+                      4: Grid & Flexbox
+                  </button>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="4_2_grid_system.html">4.2 Grid System</a>
+                      <a class="dropdown-item" href="4_3_grid_alignment.html">4.3 Grid Alignment</a>
+                      <a class="dropdown-item" href="4_4_flexbox.html">4.4 Flexbox</a>
+                      <a class="dropdown-item" href="4_5_auto_margins_wrapping_order.html">4.5 Auto Margins & Wrap</a>
+                  </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="dropdown">
+                  <button class="btn btn-danger btn-block dropdown-toggle" type="button" data-toggle="dropdown">
+                      5: JavaScript Widgets
+                  </button>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="5_2_carousel.html">5.2 Carousel</a>
+                      <a class="dropdown-item" href="5_3_collapse.html">5.3 Collapse</a>
+                      <a class="dropdown-item" href="5_4_tooltips.html">5.4 Tooltips</a>
+                      <a class="dropdown-item" href="5_5_popovers.html">5.5 Popovers</a>
+                      <a class="dropdown-item" href="5_6_modals.html">5.6 Modals</a>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr>
+      </header>
+
+      <div class="container">
+        <!--########################START HERE#########################-->
+
+        <!-- FORM -->
+        <form>
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input class="form-control form-control-sm"type="text" id="name" placeholder="Enter name">
+            </div>
+            <div class="form-group">
+                <label for="email">Email address</label>
+                <input class="form-control form-control-lg" type="email" id="email" placeholder="Enter email">
+                <small class="form-text text-muted"> Your email will not be shared with anyone</small>
+            </div>
+            <div class="form-group" >
+                <label for="password">Password</label>
+                <input class="form-control" type="password" id="password" placeholder="Password" readonly>
+            </div>
+            <div class="form-group">
+                <label for="gender">Gender</label>
+                <select class="form-control" id="gender">
+                <option>Male</option>
+                <option>Female</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="message">Message</label>
+                <textarea id="message" rows="3"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="file">File input</label>
+                <input class="form-control-file" type="file" id="file">
+                <small class="form-text text-muted" id="fileHelp">Max 3mb size</small>
+            </div>
+
+            <!-- FORM CHECK -->
+            <fieldset class="form-group">
+                <legend>What are you using this service for?</legend>
+                <div class="form-check">
+                  <label class="form-check-label">
+                      <input class="form-check-input" name="radio1" type="radio" value="option1" checked>
+                      Personal
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                      <input class="form-check-input"  name="radio2"  type="radio" value="option2">
+                      Commercial Use
+                  </label>
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label">
+                      <input class="form-check-input" name="radio3" type="radio" value="option3">
+                      Testing
+                  </label>
+                </div>
+            </fieldset>
+            <div class="form-check">
+                <label class="form-check-label">
+                <input class="form-check-input" type="checkbox">
+                    Sign up for newsletter
+                </label>
+            </div>
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </form>
+
+        <br><br>
+
+        <!-- INLINE FORM -->
+        <form class="form-inline">
+                <input type="text" id="username" class="form-control mr-2" placeholder="Enter username">
+                <input type="text" id="password" class="form-control mr-2" placeholder="Password">
+                <div class="form-check">
+                    <label class="form-check-label mr-2">
+                        <input type="checkbox" class="form-check-input"> Remember me
+                    </label>
+                </div>
+    
+                <button class="btn btn-secondary" type="submit">Submit</button>
+            </form>
+
+        <br><br>
+
+        <!-- FORM ROW -->
+        <form>
+          <div class="form-row">
+            <div class="col">
+              <input class="form-control" type="text" placeholder="First name">
+            </div>
+            <div class="col">
+              <input class="form-control" type="text" placeholder="Last name">
+            </div>
+          </div>
+        </form>
+
+        <br><br>
+
+        <!-- VALIDATION -->
+        <div class="form-group has-success">
+                <label for="username">Username</label>
+                <input type="text" class="form-control form-control-success" id="username">
+                <div class="form-control-feedback">Username available</div>
+                <small class="form-text text-muted">Must be at least 8 characters</small>
+            </div>
+            <div class="form-group has-warning">
+                <label for="password">Password</label>
+                <input type="text" class="form-control form-control-warning" id="password">
+                <div class="form-control-feedback">That password is not safe</div>
+                <small class="form-text text-muted">Please use a strong password</small>
+            </div>
+            <div class="form-group has-danger">
+                <label for="password2">Confirm Password</label>
+                <input type="text" class="form-control form-control-danger" id="password2">
+                <div class="form-control-feedback">Password does not match</div>
+                <small class="form-text text-muted">Must match the first password</small>
+            </div>
+
+    </div><!-- ./container -->
+    <div style="margin-top:500px;"></div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+</body>
+</html>
