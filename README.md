@@ -27,6 +27,11 @@ lectures, labs, and others for this subject
     - instructions how to do the activity 3 can be found [here](https://www.loom.com/share/d4f7521b93b947b48bd0bcb765fcda6e)
   - [Activity 4](https://docs.google.com/forms/d/1WmOIks1niP5zfi_hhseTpurDTrXUwzBzpTJ0LkF9qYU) Submit here
     - instructions how to do the activity 4 can be found [here](https://www.loom.com/share/7e424de38b46469cbf7ff0f36e5157a1)
+  - [Activity 5](https://docs.google.com/forms/d/1B77Snu87ppTFHGdu9BAYwy6zav2mxo9y5TOQonSLBAo) Submit here
+    - instructions how to do the activity 5 can be found [here](https://drive.google.com/drive/folders/1RYiEyO-a_bSTV7yJI3qkSqC6JRQW7_U3)
+  - [Activity 6](https://docs.google.com/forms/d/158arFitBKd5udgru0SWpkg6XniSwOwEYKSp3AOqNFc8) Submit here
+    - instructions how to do the activity 6 can be found [here](https://drive.google.com/drive/folders/1xqvE1ePsQFqKoGWBA8en23eedN1l7d4t)
+
 
 ## Finals
 - ### Quizzes

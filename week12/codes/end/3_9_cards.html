@@ -82,8 +82,8 @@
         <!--########################START HERE#########################-->
 
         <!-- BLOCK -->
-        <div>
-            <div>
+        <div class="card">
+            <div class="card-body">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, voluptate.
             </div>
         </div>
@@ -91,54 +91,54 @@
         <br><br>
 
         <!-- SIMPLE CARD -->
-        <div>
-            <div>
-                <h4>Card Title</h4>
-                <h6>Card subtitle</h6>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
-                 <a href="#">Read More</a>
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Card Title</h4>
+                <h6 class="card-subtitle"> Card subtitle</h6>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
+                 <a href="#" class="btn btn-outline-primary">Read More</a>
             </div>
         </div>
 
         <br><br>
 
         <!-- CARD WITH IMAGE -->
-        <div style="width:20rem">
-            <img src="http://lorempixel.com/300/300/sports/" alt="Card image cap">
-            <div>
-                <h4>Card Title</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
-                 <a href="#">Read More</a>
+        <div class="card" style="width:20rem">
+            <img class="card-img-top" src="http://lorempixel.com/300/300/sports/" alt="Card image cap">
+            <div class="card-body">
+                <h4 class="card-title" >Card Title</h4>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
+                <a href="#" class="btn btn-primary">Read More</a>
             </div>
         </div>
 
         <br><br>
 
         <!-- CARD WITH HEADER -->
-        <div>
-            <div>
+        <div class="card">
+            <div class="card-header">
                 My Card
             </div>
-            <div>
+            <div class="card-body">
                 <h4>Card Title</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, perspiciatis.</p>
-                <a href="#">Read More</a>
+                <a href="#" class="btn btn-primary">Read More</a>
             </div>
         </div>
 
         <br><br>
 
         <!-- HEADER, FOOTER, CENTERED -->
-        <div>
-            <div>
+        <div class="card text-center">
+            <div class="card-header">
                 <h4>My Card</h4>
             </div>
-            <div>
-                <h4>Card Title</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, perspiciatis.</p>
-                <a href="#">Read More</a>
+            <div class="card-body">
+                <h4 class="card-title">Card Title</h4>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, perspiciatis.</p>
+                <a class="btn btn-primary" href="#">Read More</a>
             </div>
-            <div>
+            <div class="card-foote text-muted">
               2 Days Ago
             </div>
         </div>
@@ -146,55 +146,55 @@
         <br><br>
 
         <!-- CARD WITH NAV -->
-        <div>
+        <div class="card">
             <div>
-                <ul>
-                <li>
-                    <a href="#">Active</a>
+                <ul class="nav nav-tabs card-header-tabs">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Active</a>
                 </li>
-                <li>
-                    <a href="#">Link</a>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
                 </li>
-                <li>
-                    <a href="#">Disabled</a>
+                <li class="nav-item">
+                    <a class="nav-link  active" href="#">Disabled</a>
                 </li>
                 </ul>
             </div>
-            <div>
-                <h4>Card Title</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, perspiciatis.</p>
-                <a href="#">Read More</a>
+            <div class="card-body">
+                <h4 class="card-title">Card Title</h4>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, perspiciatis.</p>
+                <a class="btn btn-primary" href="#">Read More</a>
             </div>
         </div>
 
         <br><br>
 
         <!-- IMAGE OVERLAYS -->
-        <div>
-            <img src="http://lorempixel.com/900/200/sports/">
-            <div>
-                <h4>Card title</h4>
-                <p>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p><small>Last updated 3 mins ago</small></p>
+        <div class="card card-inverse">
+            <img class="card-img" src="http://lorempixel.com/900/200/sports/">
+            <div class="card-img-overlay">
+                <h4 class="card-title">Card title</h4>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
         </div>
 
         <br><br>
 
         <!-- BACKGROUND COLOR -->
-        <div>
-          <div>Header</div>
-          <div>
-            <h4>Primary card title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+        <div class="card text-white bg-primary card-inverse">
+          <div class="card-header">Header</div>
+          <div class="card-body">
+            <h4 class="card-title">Primary card title</h4>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
           </div>
         </div>
 
-        <div>
-          <div>Header</div>
-          <div>
-            <h4>Secondary card title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+        <div class="card text-white bg-secondary card-inverse">
+          <div class="card-header">Header</div>
+          <div class="card-body">
+            <h4 class="card-title">Secondary card title</h4>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
           </div>
         </div>
 
@@ -246,11 +246,11 @@
         <br><br>
 
         <!-- CARD OUTLINE -->
-        <div>
-          <div>Header</div>
-          <div>
-            <h4>Primary card title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+        <div class="card border-primary mb-3" style="max-width: 18rem;">
+          <div class="card-header">Header</div>
+          <div class="card-body text-primary">
+            <h4 class="card-title">Primary card title</h4>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
           </div>
         </div>
 
@@ -313,23 +313,23 @@
         <br><br>
 
         <!-- CARD GROUP -->
-        <div>
-            <div>
-                <div>
-                    <h4>Card Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
+        <div class="card-group">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Card Title</h4>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
                 </div>
             </div>
-            <div>
-                <div>
-                    <h4>Card Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Card Title</h4>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
                 </div>
             </div>
-            <div>
-                <div>
-                    <h4>Card Title</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Card Title</h4>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
                 </div>
             </div>
         </div>
@@ -337,23 +337,23 @@
         <br><br>
 
          <!-- CARD DECK -->
-         <div>
-             <div>
-                 <div>
-                     <h4>Card Title</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
+         <div class="card-deck">
+             <div class="card">
+                 <div class="card-body">
+                     <h4 class="card-title" >Card Title</h4>
+                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
                  </div>
              </div>
-             <div>
-                 <div>
-                     <h4>Card Title</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
+             <div class="card">
+                 <div class="card-body">
+                     <h4 class="card-title">Card Title</h4>
+                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
                  </div>
              </div>
-             <div>
-                 <div>
-                     <h4>Card Title</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
+             <div class="card">
+                 <div class="card-body">
+                     <h4 class="card-title">Card Title</h4>
+                     <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, quas.</p>
                  </div>
              </div>
          </div>

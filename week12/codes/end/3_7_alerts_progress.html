@@ -83,20 +83,21 @@
         <!--########################START HERE#########################-->
 
         <!-- ALERTS -->
-        <div>
-          <strong>Primary</strong> Blog post added
+        <div class="alert alert-success">
+          <strong>Primary</strong> Blog post added <a class="alert-link" href="#"> Check it out</a>
         </div>
 
-        <div>
-          <strong>Secondary</strong> Blog post added
+        <div class="alert alert-info">
+            <strong>Attention</strong> You have a new message <a class="alert-link" href="#">Check it out</a>
         </div>
 
-        <div>
-            <strong>Success</strong> Blog post added
+        <div class="alert alert-warning">
+            <strong>Warning</strong> Please check the log files <a class="alert-link" href="#">Check it out</a>
         </div>
 
-        <div>
-            <strong>Danger</strong> Please check the log files
+        <div class="alert alert-danger">
+            <h4>There's a Problem</h4>
+            <strong>Error</strong> Database update failed <a class="alert-link" href="#">Check it out</a>
         </div>
 
         <div>
@@ -115,45 +116,45 @@
             <strong>Dark</strong> Please check the log files
         </div>
 
-
-        <!-- DISMISSABLE ALERT -->
-        <div>
-            <button type="button">
+        <!-- DISMISSABLE -->
+        <div class="alert alert-success alert-dismissible fade show">
+            <button type="button" class="close" data-dismiss="alert">
                 <span>&times;</span>
             </button>
-            <strong>Dismissable</strong> Blog post added
+            <strong>Success</strong> Blog post added <a class="alert-link" href="#">Check it out</a>
         </div>
 
         <br><br>
 
         <!-- PROGRESS BARS -->
-        <div>
-            <div></div>
-        </div>
-        <br>
-        <div>
-            <div></div>
-        </div>
-        <br>
-        <div>
-            <div></div>
-        </div>
-        <br>
-        <div>
-            <div></div>
-        </div>
-        <br>
-        <div>
-            <div></div>
-        </div>
-        <br>
-        <div>
-            <div></div>
-        </div>
-        <br>
-        <div>
-            <div></div>
-        </div>
+   <!-- PROGRESS BARS -->
+   <div class="progress">
+    <div style="width: 35%" class="progress-bar"></div>
+</div>
+<br>
+<div class="progress">
+    <div class="progress-bar" style="width: 25%;height: 20px;">25%</div>
+</div>
+<br>
+<div class="progress">
+    <div class="progress-bar bg-success" style="width: 50%"></div>
+</div>
+<br>
+<div class="progress">
+    <div class="progress-bar bg-info" style="width: 75%"></div>
+</div>
+<br>
+<div class="progress">
+    <div class="progress-bar bg-warning" style="width: 100%"></div>
+</div>
+<br>
+<div class="progress">
+    <div class="progress-bar bg-danger progress-bar-striped" style="width: 75%"></div>
+</div>
+<br>
+<div class="progress">
+    <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 75%"></div>
+</div>
 
     </div><!-- ./container -->
     <div style="margin-top:500px;"></div>
