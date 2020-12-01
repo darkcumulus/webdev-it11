@@ -34,9 +34,13 @@ lectures, labs, and others for this subject
 
 
 ## Finals
+- ### Video Lectures 
+  - [Week 13](https://drive.google.com/drive/u/1/folders/1hgRb191y0RSGZvrxKk9RkXA7F70KbxKU) Watch it here, presentation files [here](https://drive.google.com/file/d/1l-QDmjyzczYZknmekGBMB8PczvQstYYn/view)
 - ### Quizzes
   - [Quiz ]()
   - [Quiz ]()
+- ### Laboratory Activities
+  - [Activity 7]() Submit [here]()
 
 
 
