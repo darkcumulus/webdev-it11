@@ -37,6 +37,7 @@ lectures, labs, and others for this subject
 - ### Video Lectures 
   - [Week 13](https://drive.google.com/drive/u/1/folders/1hgRb191y0RSGZvrxKk9RkXA7F70KbxKU) Watch it here, presentation files [here](https://drive.google.com/file/d/1l-QDmjyzczYZknmekGBMB8PczvQstYYn/view)
   - [Week 14](https://drive.google.com/drive/u/1/folders/1aVdQHSeYGsTQK-6l9oShxN5Mv7BgHVUC) Watch it here, code and links [here](https://drive.google.com/drive/u/1/folders/1aVdQHSeYGsTQK-6l9oShxN5Mv7BgHVUC)
+  - [Week 15](https://drive.google.com/drive/u/0/folders/1EZVDUyzpuHEm3NpeaClCe2z7WSd8JHge) Watch it here, browse week15 folder for the code used in the videos
 - ### Quizzes
   - [Quiz ]()
   - [Quiz ]()
