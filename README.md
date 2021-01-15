@@ -40,7 +40,7 @@ lectures, labs, and others for this subject
   - [Week 15](https://drive.google.com/drive/u/0/folders/1EZVDUyzpuHEm3NpeaClCe2z7WSd8JHge) Watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week15/code) for the code used in the videos
   - [Week 16](https://drive.google.com/drive/u/0/folders/1YvU2DVpVnMiGdIbPj7VZKzgObNKpJDYD) Watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week16/code) for source code used in the videos
 - ### Quizzes
-  - [Quiz ]()
+  - [Quiz 3 ](https://docs.google.com/forms/d/1cpRRFvr0DlXMeMhwWyoifCkjUOs7oGc0o1TQ_tHFjNo/) Take the quiz here, as much as possible use the email you've used from previous quizzes. most questions are about Php programming language starting from week 13.
   - [Quiz ]()
 - ### Laboratory Activities
   - [Activity 7]() Submit [here]()
