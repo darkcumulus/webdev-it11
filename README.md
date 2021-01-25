@@ -37,8 +37,8 @@ lectures, labs, and others for this subject
   - [Week 16](https://drive.google.com/drive/u/0/folders/1YvU2DVpVnMiGdIbPj7VZKzgObNKpJDYD) Watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week16/code) for source code used in the videos
   - [Week 17](https://drive.google.com/drive/folders/1iVyCgX0TRQ0fFPTya57r2OL3QyNzh-ME) watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week17/code) for code used in the videos
     - Installing WAMP Server video watch [here](https://www.youtube.com/watch?v=nVGU9_8T7I0)
-  - [Week 18](https://drive.google.com/drive/u/1/folders/1BElRPC8WPUeCLVTEXiJ65-__jCKa5cgD) watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week18/code) for code used in the videos
-    - Implementing Register/Login/Logout for php site [here](https://drive.google.com/drive/u/1/folders/1WL8ZY8wdKltmKGDnmTPoe8DLnftindLb)
+  - [Week 18](https://drive.google.com/drive/u/1/folders/1BElRPC8WPUeCLVTEXiJ65-__jCKa5cgD) watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week18/crud-code) for code used in the videos
+    - Implementing Register/Login/Logout for php site videos can be found [here](https://drive.google.com/drive/u/1/folders/1WL8ZY8wdKltmKGDnmTPoe8DLnftindLb), and the source code can be found [here](https://github.com/darkcumulus/webdev-it11/tree/master/week18/login-code)
   
 - ### Quizzes
   - [Quiz 3 ](https://docs.google.com/forms/d/1cpRRFvr0DlXMeMhwWyoifCkjUOs7oGc0o1TQ_tHFjNo/) Take the quiz here, as much as possible use the email you've used from previous quizzes. most questions are about Php programming language starting from week 13.
@@ -49,7 +49,7 @@ lectures, labs, and others for this subject
     - instructions how to do the activity 5 can be found [here](https://drive.google.com/drive/folders/1RYiEyO-a_bSTV7yJI3qkSqC6JRQW7_U3)
   - [Activity 6](https://docs.google.com/forms/d/158arFitBKd5udgru0SWpkg6XniSwOwEYKSp3AOqNFc8) Submit here
     - instructions how to do the activity 6 can be found [here](https://drive.google.com/drive/folders/1xqvE1ePsQFqKoGWBA8en23eedN1l7d4t)
-  - [Activity 7](https://drive.google.com/drive/u/1/folders/1_eBdzKUTpU8K-PC-Vbda1uQh1HK3zv5z) (Final Activity) download project files here, read it carefully and follow the instructions. (you must watch Week17-18 to do this)
+  - [Activity 7](https://drive.google.com/drive/u/1/folders/1_eBdzKUTpU8K-PC-Vbda1uQh1HK3zv5z) (Final Activity) download project files, read the [instructions](https://drive.google.com/file/d/1jBjkLtN0O29IX7ttBa1mzE3Ebm2qsyrv/view?usp=sharing) and start doing it (you must watch Week17-18 to do this). this is not hard to do, it is almost the same with what i'm doing in week18 folder. You are just applying it to different database. Goodluck 
 
 
 
