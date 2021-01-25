@@ -41,12 +41,13 @@ lectures, labs, and others for this subject
   - [Week 16](https://drive.google.com/drive/u/0/folders/1YvU2DVpVnMiGdIbPj7VZKzgObNKpJDYD) Watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week16/code) for source code used in the videos
   - [Week 17](https://drive.google.com/drive/folders/1iVyCgX0TRQ0fFPTya57r2OL3QyNzh-ME) watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week17/code) for code used in the videos
     - Installing WAMP Server video watch [here](https://www.youtube.com/watch?v=nVGU9_8T7I0)
+    - [Week 18](https://drive.google.com/drive/u/1/folders/1BElRPC8WPUeCLVTEXiJ65-__jCKa5cgD) watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week18/code) for code used in the videos
   
 - ### Quizzes
   - [Quiz 3 ](https://docs.google.com/forms/d/1cpRRFvr0DlXMeMhwWyoifCkjUOs7oGc0o1TQ_tHFjNo/) Take the quiz here, as much as possible use the email you've used from previous quizzes. most questions are about Php programming language starting from week 13.
   - [Quiz 4](https://docs.google.com/forms/d/1BXidFfmSXocgZH4tF3ZYj7Ye6ZdKwTGPuWbZwOOyhu0/) Take quiz here. topics mostly from week 15-16
 - ### Laboratory Activities
-  - [Activity 7]() Submit [here]()
+  - [Activity 7](https://drive.google.com/drive/u/1/folders/1_eBdzKUTpU8K-PC-Vbda1uQh1HK3zv5z) download project files here, read it carefully and follow the instructions. 
 
 
 
