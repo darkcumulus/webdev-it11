@@ -27,10 +27,6 @@ lectures, labs, and others for this subject
     - instructions how to do the activity 3 can be found [here](https://www.loom.com/share/d4f7521b93b947b48bd0bcb765fcda6e)
   - [Activity 4](https://docs.google.com/forms/d/1WmOIks1niP5zfi_hhseTpurDTrXUwzBzpTJ0LkF9qYU) Submit here
     - instructions how to do the activity 4 can be found [here](https://www.loom.com/share/7e424de38b46469cbf7ff0f36e5157a1)
-  - [Activity 5](https://docs.google.com/forms/d/1B77Snu87ppTFHGdu9BAYwy6zav2mxo9y5TOQonSLBAo) Submit here
-    - instructions how to do the activity 5 can be found [here](https://drive.google.com/drive/folders/1RYiEyO-a_bSTV7yJI3qkSqC6JRQW7_U3)
-  - [Activity 6](https://docs.google.com/forms/d/158arFitBKd5udgru0SWpkg6XniSwOwEYKSp3AOqNFc8) Submit here
-    - instructions how to do the activity 6 can be found [here](https://drive.google.com/drive/folders/1xqvE1ePsQFqKoGWBA8en23eedN1l7d4t)
 
 
 ## Finals
@@ -41,13 +37,19 @@ lectures, labs, and others for this subject
   - [Week 16](https://drive.google.com/drive/u/0/folders/1YvU2DVpVnMiGdIbPj7VZKzgObNKpJDYD) Watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week16/code) for source code used in the videos
   - [Week 17](https://drive.google.com/drive/folders/1iVyCgX0TRQ0fFPTya57r2OL3QyNzh-ME) watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week17/code) for code used in the videos
     - Installing WAMP Server video watch [here](https://www.youtube.com/watch?v=nVGU9_8T7I0)
-    - [Week 18](https://drive.google.com/drive/u/1/folders/1BElRPC8WPUeCLVTEXiJ65-__jCKa5cgD) watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week18/code) for code used in the videos
+  - [Week 18](https://drive.google.com/drive/u/1/folders/1BElRPC8WPUeCLVTEXiJ65-__jCKa5cgD) watch it here, browse this [folder](https://github.com/darkcumulus/webdev-it11/tree/master/week18/code) for code used in the videos
+    - Implementing Register/Login/Logout for php site [here](https://drive.google.com/drive/u/1/folders/1WL8ZY8wdKltmKGDnmTPoe8DLnftindLb)
   
 - ### Quizzes
   - [Quiz 3 ](https://docs.google.com/forms/d/1cpRRFvr0DlXMeMhwWyoifCkjUOs7oGc0o1TQ_tHFjNo/) Take the quiz here, as much as possible use the email you've used from previous quizzes. most questions are about Php programming language starting from week 13.
   - [Quiz 4](https://docs.google.com/forms/d/1BXidFfmSXocgZH4tF3ZYj7Ye6ZdKwTGPuWbZwOOyhu0/) Take quiz here. topics mostly from week 15-16
+  
 - ### Laboratory Activities
-  - [Activity 7](https://drive.google.com/drive/u/1/folders/1_eBdzKUTpU8K-PC-Vbda1uQh1HK3zv5z) download project files here, read it carefully and follow the instructions. 
+  - [Activity 5](https://docs.google.com/forms/d/1B77Snu87ppTFHGdu9BAYwy6zav2mxo9y5TOQonSLBAo) Submit here
+    - instructions how to do the activity 5 can be found [here](https://drive.google.com/drive/folders/1RYiEyO-a_bSTV7yJI3qkSqC6JRQW7_U3)
+  - [Activity 6](https://docs.google.com/forms/d/158arFitBKd5udgru0SWpkg6XniSwOwEYKSp3AOqNFc8) Submit here
+    - instructions how to do the activity 6 can be found [here](https://drive.google.com/drive/folders/1xqvE1ePsQFqKoGWBA8en23eedN1l7d4t)
+  - [Activity 7](https://drive.google.com/drive/u/1/folders/1_eBdzKUTpU8K-PC-Vbda1uQh1HK3zv5z) (Final Activity) download project files here, read it carefully and follow the instructions. (you must watch Week17-18 to do this)
 
 
 
