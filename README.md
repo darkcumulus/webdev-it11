@@ -43,13 +43,23 @@ lectures, labs, and others for this subject
 - ### Quizzes
   - [Quiz 3 ](https://docs.google.com/forms/d/1cpRRFvr0DlXMeMhwWyoifCkjUOs7oGc0o1TQ_tHFjNo/) Take the quiz here, as much as possible use the email you've used from previous quizzes. most questions are about Php programming language starting from week 13.
   - [Quiz 4](https://docs.google.com/forms/d/1BXidFfmSXocgZH4tF3ZYj7Ye6ZdKwTGPuWbZwOOyhu0/) Take quiz here. topics mostly from week 15-16
-  
+
 - ### Laboratory Activities
   - [Activity 5](https://docs.google.com/forms/d/1B77Snu87ppTFHGdu9BAYwy6zav2mxo9y5TOQonSLBAo) Submit here
     - instructions how to do the activity 5 can be found [here](https://drive.google.com/drive/folders/1RYiEyO-a_bSTV7yJI3qkSqC6JRQW7_U3)
   - [Activity 6](https://docs.google.com/forms/d/158arFitBKd5udgru0SWpkg6XniSwOwEYKSp3AOqNFc8) Submit here
     - instructions how to do the activity 6 can be found [here](https://drive.google.com/drive/folders/1xqvE1ePsQFqKoGWBA8en23eedN1l7d4t)
   - [Activity 7](https://drive.google.com/drive/u/1/folders/1_eBdzKUTpU8K-PC-Vbda1uQh1HK3zv5z) (Final Activity) download project files, read the [instructions](https://drive.google.com/file/d/1jBjkLtN0O29IX7ttBa1mzE3Ebm2qsyrv/view?usp=sharing) and start doing it (you must watch Week17-18 to do this). this is not hard to do, it is almost the same with what i'm doing in week18 folder. You are just applying it to different database. Goodluck 
+- ### Exam
+  - [Exam](https://docs.google.com/forms/d/1MKu-yfL9zywtI-IInoztrOl8nrt4Q2zMR6JJNlqokeI/) can be taken here. use your PSU email. Coverage below:
+    - Getting Started with Php Programming Language
+    - Php Programming language Specifications
+    - Handling forms in Php
+    - Handling Date and Time in Php
+    - Handling Files using Php
+    - Handling Cookies & Session variables in Php
+    - User input Filtering and Validation in Php
+    - Interfacing Web server & Database using Php
 
 
 
